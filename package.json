@@ -1,0 +1,40 @@
+{
+  "_from": "yc-js",
+  "_id": "yc-js@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-xkc4zGBIEoHsy14dA57+AtMO5VQbxvAPPB3cH3K7yvJsohzWg5mJco5JAkuU63eXKzUDOMrx+O2FxEtt/rTdVA==",
+  "_location": "/yc-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "yc-js",
+    "name": "yc-js",
+    "escapedName": "yc-js",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/yc-js/-/yc-js-1.0.3.tgz",
+  "_shasum": "e86d0334a07a9818d1ae8fbf784134b38f9d0018",
+  "_spec": "yc-js",
+  "_where": "D:\\web\\vue\\qiye",
+  "author": {
+    "name": "yichen"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "一些常用js组件，包括数组处理，Obj对象处理，url地址处理，str字符串处理，file文件处理，storage缓存处理，time时间处理，base64加密解密，md5加密，Area全国地区代码，Validate表单验证，Id唯一id生成等基础功能js插件",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "yc-js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
