@@ -8,6 +8,7 @@ var Url =require('./Url.js');
 var Area =require('./Area.js');
 var Storage =require('./Storage.js');
 var {Validate} =require('./Validate.js');
+var Document =require('./Document.js');
 const Obj = {
     Arr,
     Base64,
@@ -18,7 +19,8 @@ const Obj = {
     Url,
     Area,
     Storage,
-    Validate
+    Validate,
+    Document
 }
 // module.exports = Obj
 export{
@@ -31,6 +33,7 @@ export{
     Url,
     Area,
     Storage,
-    Validate
+    Validate,
+    Document
 }
 export default Obj

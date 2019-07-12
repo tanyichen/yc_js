@@ -1,6 +1,6 @@
 {
   "_from": "yc-js",
-  "_id": "yc-js@1.0.3",
+  "_id": "yc-js@1.0.5",
   "_inBundle": false,
   "_integrity": "sha512-xkc4zGBIEoHsy14dA57+AtMO5VQbxvAPPB3cH3K7yvJsohzWg5mJco5JAkuU63eXKzUDOMrx+O2FxEtt/rTdVA==",
   "_location": "/yc-js",
@@ -36,5 +36,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.4"
+  "version": "1.0.5"
 }
